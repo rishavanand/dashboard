@@ -45,3 +45,4 @@ repos:
       - id: check-rebase
         args:
           - git://github.com/packit-service/dashboard.git
+          
